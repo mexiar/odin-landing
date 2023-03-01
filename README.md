@@ -1,0 +1,1 @@
+Una landing page para aprender a hacer páginas completas con CSS y HTML para el Odin Project.
